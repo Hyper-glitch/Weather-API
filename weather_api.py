@@ -7,7 +7,6 @@ import requests
 class WeatherApi:
     def __init__(self, language, metric_system):
         self.host = 'https://wttr.in'
-        self.language = language
         self.params = {f'nTq{metric_system}': '', 'lang': f'{language}', }
 
     def get_weather(self, city):
