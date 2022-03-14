@@ -9,3 +9,6 @@ This script create url and send request to https://wttr.in. Script also print ou
 2. python3 -m venv venv
 3. pip install -r requirements.txt
 4. python3 weather_api.py
+
+## Output example
+![Algorithm schema](weather_output.png)
