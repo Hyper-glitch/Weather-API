@@ -5,7 +5,7 @@ This script create url and send request to https://wttr.in. Script also print ou
 * Python version: 3.8
 
 ## How to set up
-1. git clone https://github.com/Hyper-glitch/API_services.git
+1. git clone https://github.com/Hyper-glitch/weather_api.git
 2. python3 -m venv venv
 3. pip install -r requirements.txt
 4. python3 weather_api.py
