@@ -1,4 +1,4 @@
-# weather api
+# Weather API
 This script create url and send request to https://wttr.in. Script also print out in CLI the weather of that location, which you send to get_weather method.
 
 ## Technologies
